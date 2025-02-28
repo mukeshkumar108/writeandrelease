@@ -1,27 +1,27 @@
-# CloneAndGo
+# WriteAndRelease
 
-A 30-line HTML/CSS/JS boilerplate. No npm, no build—just clone and add what you need. Hackathons, prototypes, quick starts—zero faff.
+A minimalist writing tool to declutter your mind. Write 250 words, let it go, feel lighter. No saving, no editing—just release.
 
-## Why?
-Setup sucks. Not every project needs React or a build process—sometimes `index.html`, CSS, and JS are all you need. CloneAndGo’s that blank slate: add Tailwind, fonts, whatever you want, or just keep it raw.
+Inspired by the morning pages concept, the goal is to get your thoughts out on the page without overthinking, editing, or formatting. 
 
-## What’s Inside?
-- `index.html`: HTML5, viewport, linked CSS/JS.
-- `styles.css`: Tiny reset—`box-sizing`, zero margins, sans-serif.
-- `script.js`: Logs “Ready!”—blank for your JS.
+## How It Works
+- **Start Typing**: Open the page, type whatever’s in your head.
 
-## How to Use
-1. `git clone https://github.com/mukeshkumar108/cloneandgo.git`
-2. Open `index.html` in a browser.
-3. Add what you want—save, refresh, done.
+- **30-Second Timer**: Stop for 30 seconds before 250 words? It wipes. Keeps you moving.
 
-No Node, no fluff. Naturally responsive—viewport’s in.
+- **250-Word Goal**: Hit 250, the timer stops, and a “Release” button appears.
 
-## Who’s This For?
-Designers, devs, hackers, anyone who wants basics and freedom.
+- **Let It Go**: Click “Release” to erase it. Every visit’s a fresh page—no history, no clutter.
 
-## License
-MIT—add whatever, it’s yours.
+## Why WriteAndRelease?
 
-## Feedback?
-X me: @__mukeshk. Try it, tweak it, yell at me.
+Mental clutter sucks. This is a quick, no-pressure way to dump your thoughts and reset. It’s not a journal or a note app—it’s a mind flush.
+It encourages a daily writing habit, helping you gain mental clarity, reduce mental clutter, and practice mindfulness through free, uninterrupted writing.
+
+## To Do (maybe)
+
+- tweak timer with notifications
+- animation for release
+- about / info
+- styling tweaks
+- hosting live
